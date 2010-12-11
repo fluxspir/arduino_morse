@@ -1,0 +1,3 @@
+prog to make the PIN 13 led of the arduino (or a buzzer...) 
+blink on morse code after the arduino translate human input
+into morse code
